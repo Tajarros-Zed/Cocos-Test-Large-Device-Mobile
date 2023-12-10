@@ -2034,6 +2034,14 @@ body {
     display: none;
 }
 
+#sisig-info {
+    padding-top: 2em;
+}
+
+#hashbrown-info {
+    padding-top: 3em;
+}
+
 @keyframes fade {
     0% {
         opacity: 0;
